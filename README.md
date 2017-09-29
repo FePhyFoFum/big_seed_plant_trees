@@ -4,6 +4,8 @@ Here we provide trees that were constructed with GenBank and the Open Tree of Li
 
 The trees themselves can be downloaded in the [release section](https://github.com/FePhyFoFum/big_seed_plant_trees/releases). 
 
+The trees are large and can be best viewed with programs that can read trees of many thousands of taxa (Dendroscope for the really large ones and Figtree for the smaller)
+
 ### updates
 We will continue to update these trees and will post updates to the release section. The individual alignments and trees available [here](http://www-personal.umich.edu/~eebsmith/big_seed_plant_datasets/) will always point to the most recent versions. 
 
